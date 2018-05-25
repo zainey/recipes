@@ -3,22 +3,20 @@ Ingredients:
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
  - 2 tablespoons chili powder
+
+ - 1 teaspoon ground cumin
+ - 1 teaspoon ground olive oil
+
  - 1 teaspoon ground oregano
+
  - 1 teaspoon salt
  - 1/4 teaspoon cayenne pepper
  - 1/4 cup corn flour
  - One 15-ounce can kidney beans, drained and rinsed
- - One 15-ounce can pinto beans, drained and rinsed
-<<<<<<< HEAD
- - 1 tabelspoon patata patata
-||||||| merged common ancestors
-=======
-
->>>>>>> 32768d7f8f9bbc5bdc5b5d4cd4505192aded1b7e
-
+ - - 1 tabelspoon patata patata
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
-<<<<<<< HEAD
+
  2. Add the tomato sauce, chili powder, cumin, oregano, salt, patata patata and cayenne.
 ||||||| merged common ancestors
  
